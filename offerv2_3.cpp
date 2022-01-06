@@ -3,7 +3,7 @@
 #include <unordered_map>
 
 using namespace std;
-
+//用哈希表，c++ 的unordered_map
 class Solution {
 public:
     int findRepeatNumber(vector<int>& nums) {
